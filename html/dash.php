@@ -338,6 +338,7 @@ $model_config = [
                             ?>
                         <?php } ?>
                     </select>
+                    <button>Setar</button>
                 </form>
                 <?php
             }
