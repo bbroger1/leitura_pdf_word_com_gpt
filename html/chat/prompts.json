@@ -1,0 +1,19 @@
+{
+  "cn": [
+    [
+      "What is Vectara?",
+      "Vectara provides a Trusted Generative AI platform. The platform allows organizations to rapidly create a ChatGPT-like experience (an AI assistant) which is grounded in the data, documents, and knowledge that they have. Our serverless RAG-as-a-Service also solves critical problems required for enterprise adoption, namely: reduces hallucination, provides explainability / provenance, enforces access control, allows for real-time updatability of the knowledge, and mitigates intellectual property / bias concerns from large language models."
+    ]
+  ],
+  "en": [
+    [
+      "What is RAG?",
+      "Retrieval-Augmented Generation (RAG) is a technique that improves the accuracy of large language models (LLMs) by using data from external sources. RAG involves retrieving relevant documents or data from an external knowledge base and providing it as context for the LLM. This can help models: Reduce factually incorrect content: RAG uses semantic similarity calculations to retrieve relevant document chunks from external knowledge bases. Build trust: RAG provides models with sources they can cite, such as footnotes in a research paper. Clear up ambiguity: RAG helps models understand user queries. Reduce the possibility of hallucinations: Also known as wrong guesses."
+    ],
+    [
+      "O que caracteriza holopensene da Serenona Monja?",
+      "Lablab.ai is an initiative designed to support and stimulate the modern artificial intelligence ecosystem and the innovators behind it. An collaborative approach with leading AI labs, Open source initiatives & technology companies helps unlock the state-of-the-art AI technologies and infrastructure."
+    ]
+  ]
+}
+

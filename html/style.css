@@ -1,0 +1,34 @@
+html,body{
+
+}
+select{
+    height: 32px;
+    border-radius: 4px;
+}
+.content{
+    width: 80%;
+    margin: 0 10%;
+    background-color: #f5eaff;
+    padding: 8px;
+    border-radius: 4px;
+}
+.search_form{
+    width: 80%;
+    margin: 0 10%;
+    padding: 8px;
+    background-color: #4d316e;
+    text-align: center;
+}
+.search_form input{
+    width: 40%;
+    height: 30px;
+    border-radius: 5px;
+}
+.search_form input[name=hl]{
+    width: 100px;
+}
+.search_form button{
+    padding: 10px;
+    border-radius: 5px;
+
+}
