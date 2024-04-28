@@ -35,6 +35,7 @@ Preencha também as informações para Vectara.
 ## No arquivo config.php
 No arquivo config.php defina as informações de acesso à base de dados.
 
+Importe o SQL anexado a esse repositório.
 
 
 # Vectara
